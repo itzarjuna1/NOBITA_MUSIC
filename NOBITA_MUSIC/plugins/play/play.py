@@ -57,7 +57,8 @@ async def play_commnd(
 ):
     
     mystic = await message.reply_text(
-        _["play_2"].format(channel) if channel else _["play_1"]
+    photo="https://graph.org/file/f3a0728da34ad80bb1ed6-5c2912a3e77baa8cd2.jpg",
+    caption=_["play_2"].format(channel) if channel else _["play_1"]
     )
     plist_id = None
     slider = None
