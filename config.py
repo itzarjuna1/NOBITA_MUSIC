@@ -51,8 +51,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/NOB1TA_SUPPORT")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+WLTHgUAvkYVmNTg9")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/theinfinitynetwork")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/theinfinity_support")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -90,21 +90,21 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/fcawaj.jpg"
+    "START_IMG_URL", "https://graph.org/file/e5aaac67d2a63d47d6937-446dd7e30777a89333.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/tcz7s6.jpg"
+    "PING_IMG_URL", "https://graph.org/file/e5aaac67d2a63d47d6937-446dd7e30777a89333.jpg"
 )
-PLAYLIST_IMG_URL = "https://files.catbox.moe/fcawaj.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/i7uj2i.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/fcawaj.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/fcawaj.jpg"
-STREAM_IMG_URL = "https://files.catbox.moe/fcawaj.jpg"
-SOUNCLOUD_IMG_URL = "https://files.catbox.moe/fcawaj.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/fcawaj.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/fcawaj.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/fcawaj.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/fcawaj.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/f3a0728da34ad80bb1ed6-5c2912a3e77baa8cd2.jpg"
+STATS_IMG_URL = "https://graph.org/file/f3a0728da34ad80bb1ed6-5c2912a3e77baa8cd2.jpg"
+TELEGRAM_AUDIO_URL = "https://graph.org/file/f3a0728da34ad80bb1ed6-5c2912a3e77baa8cd2.jpg"
+TELEGRAM_VIDEO_URL = "https://graph.org/file/f3a0728da34ad80bb1ed6-5c2912a3e77baa8cd2.jpg"
+STREAM_IMG_URL = "https://graph.org/file/f3a0728da34ad80bb1ed6-5c2912a3e77baa8cd2.jpg"
+SOUNCLOUD_IMG_URL = "https://graph.org/file/f3a0728da34ad80bb1ed6-5c2912a3e77baa8cd2.jpg"
+YOUTUBE_IMG_URL = "https://graph.org/file/f3a0728da34ad80bb1ed6-5c2912a3e77baa8cd2.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/f3a0728da34ad80bb1ed6-5c2912a3e77baa8cd2.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://graph.org/file/f3a0728da34ad80bb1ed6-5c2912a3e77baa8cd2.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://graph.org/file/f3a0728da34ad80bb1ed6-5c2912a3e77baa8cd2.jpg"
 
 
 def time_to_seconds(time):
