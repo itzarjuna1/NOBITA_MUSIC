@@ -13,9 +13,9 @@ API_HASH = getenv("API_HASH")
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","ll_NOBITA_DEFAULTERS_ll")
+OWNER_USERNAME = getenv("OWNER_USERNAME","deafen_ackerman")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME","NOBITA_MUSIC_ROBOT")
+BOT_USERNAME = getenv("BOT_USERNAME","snowy2_musicbot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME")
 # ---------------------------------------------------------
@@ -44,7 +44,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/iamnobita09/NOBITA_MUSIC",
+    "https://github.com/theteaminfinitybots/NOBITA_MUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -90,21 +90,28 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://graph.org/file/e5aaac67d2a63d47d6937-446dd7e30777a89333.jpg"
+    "START_IMG_URL", "https://graph.org/file/aa86a4a170e4056923aab-8539d829d6b4771dcf.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://graph.org/file/e5aaac67d2a63d47d6937-446dd7e30777a89333.jpg"
+    "PING_IMG_URL", "https://graph.org/file/aed4a7a626dd5e1b5dcdd-133ace83ff2672bd63.jpg"
 )
-PLAYLIST_IMG_URL = "https://graph.org/file/f3a0728da34ad80bb1ed6-5c2912a3e77baa8cd2.jpg"
-STATS_IMG_URL = "https://graph.org/file/f3a0728da34ad80bb1ed6-5c2912a3e77baa8cd2.jpg"
-TELEGRAM_AUDIO_URL = "https://graph.org/file/f3a0728da34ad80bb1ed6-5c2912a3e77baa8cd2.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/8845649629c4d7025c37f-06bc4b7900f7f640e1.jpg"
+STATS_IMG_URL = "https://graph.org/file/0b1f83450b59a65004800-5fd68e26d8fcc38fed.jpg"
+TELEGRAM_AUDIO_URL = "https://graph.org/file/0b1f83450b59a65004800-5fd68e26d8fcc38fed.jpg"
 TELEGRAM_VIDEO_URL = "https://graph.org/file/f3a0728da34ad80bb1ed6-5c2912a3e77baa8cd2.jpg"
 STREAM_IMG_URL = "https://graph.org/file/f3a0728da34ad80bb1ed6-5c2912a3e77baa8cd2.jpg"
 SOUNCLOUD_IMG_URL = "https://graph.org/file/f3a0728da34ad80bb1ed6-5c2912a3e77baa8cd2.jpg"
-YOUTUBE_IMG_URL = "https://graph.org/file/f3a0728da34ad80bb1ed6-5c2912a3e77baa8cd2.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/f3a0728da34ad80bb1ed6-5c2912a3e77baa8cd2.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://graph.org/file/f3a0728da34ad80bb1ed6-5c2912a3e77baa8cd2.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://graph.org/file/f3a0728da34ad80bb1ed6-5c2912a3e77baa8cd2.jpg"
+YOUTUBE_IMG_URL = [
+    "https://graph.org/file/0cfd31b6d8cf3755cd3c9-7eacaa8ea59650de2a.jpg",
+    "https://graph.org/file/9304d01a3ed3632e974d5-96ed16ff307bf8fc7e.jpg",
+    "https://graph.org/file/0f7fe7c34140e994aa376-d1efb74f820daa31d5.jpg",
+    "https://graph.org/file/25bb7015045251c18f8cb-34b7f869e90b9ed784.jpg",
+    "https://graph.org/file/f02053d66b10119c57a95-12c26834e838446116.jpg",
+    "https://graph.org/file/a79929395cfa902724f8f-928d61f2407cb99b27.jpg",
+]
+SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/5faa4a08d8a14458c2133-013e9eb15f066be03a.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://graph.org/file/8845649629c4d7025c37f-06bc4b7900f7f640e1.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://graph.org/file/8845649629c4d7025c37f-06bc4b7900f7f640e1.jpg"
 
 
 def time_to_seconds(time):
