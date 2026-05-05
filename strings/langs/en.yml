@@ -174,7 +174,7 @@ queue_6 : "<b> ᴅᴜʀᴀᴛɪᴏɴ :</b> ᴜɴᴋɴᴏᴡɴ ᴅᴜʀᴀᴛɪ�
 queue_7 : "\n❍ ᴄʟɪᴄᴋ ᴏɴ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴡʜᴏʟᴇ ǫᴜᴇᴜᴇᴅ ʟɪsᴛ."
 queue_8 : "<b>{0} ᴘʟᴀʏᴇʀ</b>\n\n <b>sᴛʀᴇᴀᴍɪɴɢ :</b> {1}\n\n🔗 <b>sᴛʀᴇᴀᴍ ᴛʏᴘᴇ :</b> {2}\n <b>ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {3}\n{4}"
 
-stream_1 : "<b><blockquote>❖  𝛅ᴛᴧʀᴛєᴅ  𝛅ᴛʀєᴧϻɪηɢ  </blockquote></b>\n<blockquote><b>❍ тɪᴛʟє :</b> <a href={0}>{1}</a>\n<b>❍ ᴅᴜʀᴧᴛɪση :</b> {2} ϻɪηᴜᴛєs\n<b>❍ ʙʏ :</b> {3}</blockquote>\n<b><blockquote>❖  ϻᴧᴅє  ʙʏ  ➛  [𝚴 𝐎 𝐁 𝚰 𝐓 𝚲](https://t.me/ll_NOBITA_DEFAULTERS_ll)</b></blockquote>"
+stream_1 : "<b><blockquote>❖  𝛅ᴛᴧʀᴛєᴅ  𝛅ᴛʀєᴧϻɪηɢ : <a href={0}>{1}</a>\n<b></blockquote>"
 stream_2 : "<b><blockquote>❖  𝛅ᴛᴧʀᴛєᴅ  𝛅тʀєᴧϻɪηɢ  </blockquote></b>\n<blockquote><b>❍ 𝛅ᴛʀєᴧϻ ᴛʏᴘᴇ :</b> ʟɪᴠᴇ sᴛʀᴇᴀᴍ [ᴜʀʟ]\n<b>❍ ᴘʟᴧʏ ʙʏ :</b> {0}</blockquote>"
 
 CLOSE_BUTTON  : "🥂 ᴄʟᴏsᴇ 🥂"
@@ -186,7 +186,7 @@ S_B_1 : "ᴧᴅᴅ ϻᴇ ʙᴧʙʏ"
 S_B_2 : "🌪️ sᴜᴘᴘᴏꝛᴛ 🌪️"
 S_B_3 : "ᴧᴅᴅ ϻᴇ ʙᴧʙʏ"
 S_B_4 : "ʜᴇʟᴘ ᴧɴᴅ ᴄσϻϻᴧɴᴅѕ"
-S_B_5 : "σwɴᴇʀ"
+S_B_5 : "ᴅᴇᴠᴇʟᴏᴘᴇʀ"
 S_B_6 : "ᴜᴘᴅᴧᴛᴇ"
 S_B_7 : " 𝐒ᴏᴜʀᴄᴇ "
 S_B_8 : " ʏᴏᴜ-ᴛᴜʙᴇ "
