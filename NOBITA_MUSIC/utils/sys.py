@@ -20,7 +20,7 @@ async def bot_sys_stats():
 
 # updated prefixes with fixes by @itrjuna01
 CACHE_DIR = "downloads"  
-IMAGE_URL = ""
+IMAGE_URL = "https://graph.org/file/25bb7015045251c18f8cb-34b7f869e90b9ed784.jpg"
 
 
 def get_folder_size(path):
