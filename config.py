@@ -102,8 +102,8 @@ TELEGRAM_VIDEO_URL = "https://graph.org/file/f3a0728da34ad80bb1ed6-5c2912a3e77ba
 STREAM_IMG_URL = "https://graph.org/file/f3a0728da34ad80bb1ed6-5c2912a3e77baa8cd2.jpg"
 SOUNCLOUD_IMG_URL = "https://graph.org/file/f3a0728da34ad80bb1ed6-5c2912a3e77baa8cd2.jpg"
 YOUTUBE_IMG_URL = [
-    "https://graph.org/file/0cfd31b6d8cf3755cd3c9-7eacaa8ea59650de2a.jpg",
-    "https://graph.org/file/9304d01a3ed3632e974d5-96ed16ff307bf8fc7e.jpg",
+    "https://graph.org/file/63b3df811a74a74849d45-f46859bfc348595942.jpg",
+    "https://graph.org/file/974a71fadfc80d29b6e85-7583dc85102665367c.jpg",
     "https://graph.org/file/0f7fe7c34140e994aa376-d1efb74f820daa31d5.jpg",
     "https://graph.org/file/25bb7015045251c18f8cb-34b7f869e90b9ed784.jpg",
     "https://graph.org/file/f02053d66b10119c57a95-12c26834e838446116.jpg",
